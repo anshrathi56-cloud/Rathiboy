@@ -1,0 +1,5 @@
+a=input("enter the value of a:")
+print(a)
+b=input("enter the value of b:")
+print(b)
+c=a+print("the answer is:",c)
