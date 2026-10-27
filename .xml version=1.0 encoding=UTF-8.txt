@@ -1,0 +1,19 @@
+.?xml version=1.0" encoding="UTF-8"?>
+<gm>
+   <course>java</course>
+   <course>data</course>
+
+   <name>BCA</name>
+   <fees>50000</fees>
+</gm>
+
+<course>
+      <C>c</c>
+      <c>c++</c>
+</course>
+ 
+ <number>3.com</number> 
+ <fees>10000</fees>
+ <fees>100</fees> 
+ <course>cl</course>
+<course>gm</course>

@@ -1,0 +1,11 @@
+class Main {
+    public static void main(String[] args) {
+        System.out.println("*All Alphabets a-z*");
+        char ch='a';
+        while(ch<='z')
+        {
+        System.out.println(ch);
+        ch++;
+        }
+    }
+}

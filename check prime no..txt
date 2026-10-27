@@ -1,0 +1,27 @@
+import java.util.*;
+class Main 
+{
+    public static void main(String[] args) 
+    {
+        int n,i,j,found=1;
+        Scanner s=new Scanner(System.in);
+        System.out.println("enter the no.");
+        n=s.nextInt();
+        for(i=2;i<=n;i++)
+        { 
+            found=1;
+            for(j=2;j<=i-1;j++)
+            {
+                if(i%j==0)
+                {
+                   found=0;
+                    break;
+                }
+            }
+            if(found==1)
+            {
+                System.out.println(i);
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        int n,i;
+        System.out.println("enter size of array:");
+        Scanner s=new Scanner(System.in);
+        n=s.nextInt();
+        int A[]=new int[n];
+        System.out.println("enter elements of array A:");
+        for(i=0;i<=n-1;i++)
+        {
+            A[i]=s.nextInt();
+        }
+        System.out.println("The elements of array A in reverse:");
+        for(i=n-1;i>=0;i--)
+        {
+        System.out.println(A[i]);
+        }
+    }
+}

@@ -1,0 +1,16 @@
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        int n;
+        Scanner s=new Scanner(System.in);
+        System.out.println("*Program to print N natural numbers in Reverse order*");
+        System.out.print("Enter the value of N:");
+        n=s.nextInt();
+        
+        while(n>1)
+        {
+        System.out.println(n);
+        n--;
+        }
+    }
+}
