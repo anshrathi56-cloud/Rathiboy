@@ -1,5 +1,7 @@
 Hi, I'm Ansh Rathi 👋
+
 🎓 BCA Student | 🎨 Graphic Designer | 💻 Aspiring Developer
+
 I'm a motivated and enthusiastic student interested in graphic design, web development, and technology. I enjoy creating engaging digital content, learning new tools, and building practical projects while continuously improving my skills.
 👨‍💻 About Me
 🎓 Pursuing a Bachelor of Computer Applications (BCA) at Gandhi Memorial National College, affiliated with Kurukshetra University.
